@@ -5,7 +5,7 @@ This project is designed to unify the logging, agnostic of language, tech stack,
 
 ## To Do
 
-- [ ] Log files
+- [x] Log files
 - [ ] Consent-based remote anonymous reporting
 - [ ] Go implementation
 - [ ] C++ implementation
