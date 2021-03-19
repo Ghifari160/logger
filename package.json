@@ -1,0 +1,11 @@
+{
+  "name": "logger",
+  "version": "0.1.0",
+  "description": "A universal logging utility",
+  "main": "lib/node/index.js",
+  "scripts": {
+    "test": "node test/node"
+  },
+  "author": "GHIFARI160",
+  "license": "UNLICENSED"
+}
