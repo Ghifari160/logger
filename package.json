@@ -4,8 +4,11 @@
   "description": "A universal logging utility",
   "main": "lib/node/index.js",
   "scripts": {
-    "test": "rm -f *.log && node test/node"
+    "test": "mocha test/node/*.js"
   },
   "author": "GHIFARI160",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "mocha": "^9.0.0"
+  }
 }
