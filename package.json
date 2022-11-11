@@ -9,6 +9,6 @@
   "author": "GHIFARI160",
   "license": "UNLICENSED",
   "devDependencies": {
-    "mocha": "^9.0.0"
+    "mocha": "^9.2.2"
   }
 }
